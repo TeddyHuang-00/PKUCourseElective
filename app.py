@@ -117,6 +117,6 @@ with BODY[3]:
 with FOOTER:
     st.markdown("---")
     st.markdown(
-        'Email:<a href="mailto:huang_nan_2019@pku.edu.cn">huang_nan_2019@pku.edu.cn</a>',
+        'Issues are welcome. <a href="https://github.com/TeddyHuang-00/PKUCourseElective/issues">Click here</a> to report any bugs & thoughts.',
         unsafe_allow_html=True,
     )
